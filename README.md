@@ -1,1 +1,1 @@
-# go-miniproject
+# go-backend
